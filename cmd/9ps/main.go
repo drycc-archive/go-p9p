@@ -6,8 +6,8 @@ import (
 	"net"
 	"strings"
 
-	"github.com/docker/go-p9p"
-	"github.com/docker/go-p9p/ufs"
+	"github.com/flynn/go-p9p"
+	"github.com/flynn/go-p9p/ufs"
 	"golang.org/x/net/context"
 )
 
