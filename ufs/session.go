@@ -11,7 +11,7 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/flynn/go-p9p"
+	"github.com/drycc/go-p9p"
 )
 
 type session struct {
